@@ -1,12 +1,12 @@
-# server Documentation
+# Server Documentation
 
-## technologies Used
+## Technologies Used
 node
 express
 sqllite3
 knex
 
-## DB Scema
+## DB Schema
 
 ### user Table
 
